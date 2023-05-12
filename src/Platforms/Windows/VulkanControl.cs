@@ -4,6 +4,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
+using Vulkan;
+
 namespace Vulkan.Windows
 {
 	public class VulkanControl : UserControl
